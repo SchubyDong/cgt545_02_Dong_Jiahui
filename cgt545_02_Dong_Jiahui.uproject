@@ -3,6 +3,12 @@
 	"EngineAssociation": "5.0",
 	"Category": "Samples",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor"
